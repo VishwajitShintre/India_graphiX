@@ -19,8 +19,7 @@ These instructions will help you get a copy of the project up and running on you
    git clone https://github.com/yourusername/india-census-visualization.git
 
 ### Usage
-- Run the Streamlit app:
-  Copy code
+- Run the Streamlit app :
    ```sh
   streamlit run app.py
 - Open a web browser and go to http://localhost:8501 to access the India Census Data Visualization application.
