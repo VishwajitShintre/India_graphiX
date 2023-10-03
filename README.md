@@ -21,6 +21,7 @@ These instructions will help you get a copy of the project up and running on you
 ### Usage
 - Run the Streamlit app:
   Copy code
-  **streamlit run app.py**
+   ```sh
+  streamlit run app.py
 - Open a web browser and go to http://localhost:8501 to access the India Census Data Visualization application.
 - Explore the various visualizations and features provided by the app.
