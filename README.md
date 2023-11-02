@@ -6,7 +6,7 @@
 This project is a Python application that uses the Streamlit library to visualize India's census data. It provides interactive data visualizations and insights based on the census data. Users can explore various demographic and geographic aspects of India through this application.
 
 
-## Getting Started
+## Getting Started 
 These instructions will help you get a copy of the project up and running on your local machine for development and testing purposes.
 
 ### Prerequisites
